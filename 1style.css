@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+}
+.bt_pesquisa{
+    color: red;
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
+}
+.input_pesquisa{
+    background-color: burlywood;
+    border-top-left-radius: 1em;
+    border-bottom-left-radius: 1em;
+    
+
+
+}
